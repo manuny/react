@@ -1,0 +1,14 @@
+	.message_title {
+	  padding: 70px;
+	  font-size: 35px;
+	  font-weight: 700;
+	  color: #f50a0a;
+	  border: 10px solid rgb(87, 28, 195);
+	  border-radius: 10px;
+	}
+  
+	.message_text {
+	  font-size: 25px;
+	  font-weight: 400;
+	 
+	}
