@@ -18,8 +18,7 @@ const CommentsList = () => {
           <li key={comment.id}>
             {comment.text}
             <button onClick={() => deleteComment(comment.id)}>
-              {" "}
-              Удалить комментарий{" "}
+              Удалить комментарий
             </button>
           </li>
         ))}
